@@ -1,0 +1,23 @@
+.intro{
+color:darkorchid;
+font-size: 120%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.body{
+background-color: paleturquoise;
+
+}
+
+.outro{
+color: crimson;
+font-size: 150%;
+font-family: monospace ;
+
+}
+
+.heading1{
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+
+}
